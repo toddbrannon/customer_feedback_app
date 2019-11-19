@@ -7,7 +7,7 @@ def send_mail(customer, dealer, rating, comments):
     smtp_server = 'smtp.mailtrap.io'
     login = 'd1b8f5f0bd58be'
     password = 'e70afe77d83026'
-    message = "<h3>New Feedback Submission</h3>
+    message = "<h3>New Feedback Submission</h3>"
                 <ul>
                     <li>Customer: {customer}</li>
                     <li>Dealer: {dealer}</li>
