@@ -1,6 +1,6 @@
 import smtplib
 from email.mime.text import MIMEText
-from send_mail import send_email
+from send_mail import send_mail
 
 def send_mail(customer, dealer, rating, comments):
     port = 2525
