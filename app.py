@@ -59,4 +59,3 @@ def submit():
 if __name__ == '__main__':
     app.run()   
 
-# postresql://postgres:12RomanSoldiers@localhost/benz
